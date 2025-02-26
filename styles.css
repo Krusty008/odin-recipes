@@ -1,0 +1,19 @@
+.home {
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+ul.recipe {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+h2 {
+color: crimson;
+}
+
+ul {
+    font-weight:bold;
+    font-size: 15px;
+}
