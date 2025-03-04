@@ -1,19 +1,30 @@
+/* Recipes Page */
+
 .home {
     font-size: 20px;
     background-color: blue;
     color: white;
     font-weight: bold;
 }
+
+h2 {
+    color: crimson;
+}
+
 ul.recipe {
     font-size: 25px;
     font-weight: bolder;
 }
 
-h2 {
-color: crimson;
+/* Index Page*/
+
+h1 {
+    text-align: center;
 }
+
 
 ul {
     font-weight:bold;
     font-size: 15px;
 }
+
